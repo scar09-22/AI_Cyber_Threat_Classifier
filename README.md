@@ -1,4 +1,4 @@
-# 🧠 AI-Driven Cyber Threat Classifier
+# AI-Driven Cyber Threat Classifier
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -9,23 +9,23 @@ Includes **Explainable AI (SHAP)** and an **interactive Streamlit dashboard** fo
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project implements a **production-ready cyber threat detection system** that achieves **99.99% accuracy** with **zero false positives** on the CICIDS2017 benchmark dataset.  
 It can detect various types of attacks such as **DDoS**, **Port Scans**, **Brute Force**, and **Web Exploits** in real-time.
 
-### 🔑 Key Features
+### Key Features
 
-- ⚡ **High Performance** — 99.99% accuracy, 100% precision, 99.94% recall  
-- 🛡️ **Zero False Positives** — No false alarms, full reliability  
-- 💡 **Explainable AI** — SHAP integration for feature-level model interpretation  
-- ⏱️ **Real-Time Detection** — Live and batch prediction modes  
-- 📊 **Interactive Dashboard** — Streamlit app for monitoring and analytics  
-- 🔍 **Multiple Models** — RandomForest, XGBoost, and LightGBM comparison  
+- **High Performance** — 99.99% accuracy, 100% precision, 99.94% recall  
+- **Zero False Positives** — No false alarms, full reliability  
+- **Explainable AI** — SHAP integration for feature-level model interpretation  
+- **Real-Time Detection** — Live and batch prediction modes  
+- **Interactive Dashboard** — Streamlit app for monitoring and analytics  
+- **Multiple Models** — RandomForest, XGBoost, and LightGBM comparison  
 
 ---
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 | Metric | Score | Details |
 |--------|-------|---------|
@@ -43,7 +43,7 @@ It can detect various types of attacks such as **DDoS**, **Port Scans**, **Brute
 
 ---
 
-## 🧩 Dataset
+## Dataset
 
 **CICIDS2017** — Canadian Institute for Cybersecurity Intrusion Detection Evaluation Dataset
 
@@ -55,7 +55,7 @@ It can detect various types of attacks such as **DDoS**, **Port Scans**, **Brute
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 - Python **3.10+**
@@ -83,7 +83,7 @@ chmod 600 ~/.kaggle/kaggle.json
 
 ---
 
-## 🧠 Usage
+## Usage
 
 ### Complete ML Pipeline
 
@@ -106,7 +106,7 @@ streamlit run scripts/dashboard_app.py
 
 ---
 
-## 🧱 Technical Stack
+## Technical Stack
 
 | Layer | Technologies |
 |-------|--------------|
@@ -118,7 +118,7 @@ streamlit run scripts/dashboard_app.py
 
 ---
 
-## 🧮 Model Architecture
+## Model Architecture
 
 **RandomForest Classifier**
 - n_estimators = 100  
@@ -128,7 +128,7 @@ streamlit run scripts/dashboard_app.py
 
 ---
 
-## 🔬 Attack Detection Results
+## Attack Detection Results
 
 | Attack Type | Detection Rate |
 |--------------|----------------|
@@ -140,20 +140,20 @@ streamlit run scripts/dashboard_app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Shiva** — [@scar09-22](https://github.com/scar09-22)
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Canadian Institute for Cybersecurity (CICIDS2017)](https://www.unb.ca/cic/datasets/ids-2017.html)  
 - [SHAP](https://github.com/slundberg/shap) for explainable AI  
