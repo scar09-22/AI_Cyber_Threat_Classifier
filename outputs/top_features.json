@@ -1,0 +1,17 @@
+{
+    " Destination Port": 0.030002711089483363,
+    " Fwd Packet Length Max": 0.014811401719014908,
+    " Bwd Packet Length Min": 0.014521074339756844,
+    " Avg Fwd Segment Size": 0.014353312487047465,
+    " Fwd Packet Length Mean": 0.011430374456938565,
+    " Bwd Packet Length Std": 0.009957834123090039,
+    " Bwd Packet Length Mean": 0.008840182987584063,
+    "Init_Win_bytes_forward": 0.008568023940606451,
+    " Subflow Fwd Bytes": 0.006168900827903053,
+    " Average Packet Size": 0.005664813577214131,
+    " Avg Bwd Segment Size": 0.005460047857064809,
+    " Init_Win_bytes_backward": 0.005150822895524211,
+    " Packet Length Mean": 0.0050456152948392605,
+    " PSH Flag Count": 0.004948120749762683,
+    "Total Length of Fwd Packets": 0.004904120640589284
+}
