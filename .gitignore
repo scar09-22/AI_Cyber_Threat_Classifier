@@ -30,7 +30,7 @@ kaggle.json
 # Jupyter
 .ipynb_checkpoints/
 
-# Model files (optional - can be uploaded separately)
+# Model files 
 models/*.pkl
 
 # Logs
